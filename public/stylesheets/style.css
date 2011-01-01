@@ -1,0 +1,15 @@
+body {
+     font-family: "museo-sans-1","museo-sans-2",Georgia,serif;
+     font-weight: 100;
+     font-size: 19px;
+     line-height: 32px;
+     background-color:#acacac;
+}
+div.main {
+    margin: auto;
+    background-color:#bbbbb;
+    width:62%;
+}
+h1 {
+    text-align:center;
+}
